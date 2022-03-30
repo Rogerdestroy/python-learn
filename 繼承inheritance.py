@@ -1,6 +1,6 @@
 """
 繼承 inheritance
- person.py 
+person.py 
 """
 from person import Person
 
